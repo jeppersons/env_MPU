@@ -26,8 +26,8 @@ while True:
     # Format the output for Thonny's Plotter (X, Y, Z values separated by spaces)
     #print(f"{acceleration[0]:.5f} {acceleration[1]:.5f} {acceleration[2]:.5f}")
     #print(f"{xAccel:.5f} {yAccel:.5f} {zAccel:.5f}")
-    print('x: ',xAccel,'    ', 'y: ',yAccel, '    ','z: ',zAccel,' ')
-    #print('Tilt Angle: ',thetaDeg,' Degress')
+    #print('x: ',xAccel,'    ', 'y: ',yAccel, '    ','z: ',zAccel,' ')
+    print('Tilt Angle: ',thetaDeg,' Degress')
 
 
     # Wait for a short interval before the next reading
